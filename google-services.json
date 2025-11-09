@@ -1,21 +1,40 @@
 {
   "project_info": {
-    "project_number": "402229527482",
-    "project_id": "appmockup-70876",
-    "storage_bucket": "appmockup-70876.firebasestorage.app"
+    "project_number": "281806923551",
+    "project_id": "authapp-9fcee",
+    "storage_bucket": "authapp-9fcee.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:402229527482:android:35eb7f0581dc717c1c9383",
+        "mobilesdk_app_id": "1:281806923551:android:ba903108127fa4b217722a",
         "android_client_info": {
-          "package_name": "com.example.appmockup"
+          "package_name": "com.company.appauth"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDpmXMW3sGXV368KRali2H62R92K1gkQBY"
+          "current_key": "AIzaSyA7JwyJqJnIkvk-11LNkcNP0eyb0sHgvXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281806923551:android:cc235036924e27bb17722a",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JwyJqJnIkvk-11LNkcNP0eyb0sHgvXw"
         }
       ],
       "services": {
