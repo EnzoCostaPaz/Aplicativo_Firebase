@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402229527482",
+    "project_id": "appmockup-70876",
+    "storage_bucket": "appmockup-70876.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402229527482:android:35eb7f0581dc717c1c9383",
+        "android_client_info": {
+          "package_name": "com.example.appmockup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpmXMW3sGXV368KRali2H62R92K1gkQBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
